@@ -1,0 +1,15 @@
+C:\Users\Pavani\source\repos\squaredimensions\squaredimensions\obj\Debug\net6.0\squaredimensions.csproj.AssemblyReference.cache
+C:\Users\Pavani\source\repos\squaredimensions\squaredimensions\obj\Debug\net6.0\squaredimensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\squaredimensions\squaredimensions\obj\Debug\net6.0\squaredimensions.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\squaredimensions\squaredimensions\obj\Debug\net6.0\squaredimensions.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\squaredimensions\squaredimensions\obj\Debug\net6.0\squaredimensions.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\squaredimensions\squaredimensions\bin\Debug\net6.0\squaredimensions.exe
+C:\Users\Pavani\source\repos\squaredimensions\squaredimensions\bin\Debug\net6.0\squaredimensions.deps.json
+C:\Users\Pavani\source\repos\squaredimensions\squaredimensions\bin\Debug\net6.0\squaredimensions.runtimeconfig.json
+C:\Users\Pavani\source\repos\squaredimensions\squaredimensions\bin\Debug\net6.0\squaredimensions.dll
+C:\Users\Pavani\source\repos\squaredimensions\squaredimensions\bin\Debug\net6.0\ref\squaredimensions.dll
+C:\Users\Pavani\source\repos\squaredimensions\squaredimensions\bin\Debug\net6.0\squaredimensions.pdb
+C:\Users\Pavani\source\repos\squaredimensions\squaredimensions\obj\Debug\net6.0\squaredimensions.dll
+C:\Users\Pavani\source\repos\squaredimensions\squaredimensions\obj\Debug\net6.0\ref\squaredimensions.dll
+C:\Users\Pavani\source\repos\squaredimensions\squaredimensions\obj\Debug\net6.0\squaredimensions.pdb
+C:\Users\Pavani\source\repos\squaredimensions\squaredimensions\obj\Debug\net6.0\squaredimensions.genruntimeconfig.cache
